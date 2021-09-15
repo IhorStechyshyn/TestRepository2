@@ -1,1 +1,3 @@
 New file with smth important
+------------------------------
+Some additional very important information
